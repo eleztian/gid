@@ -1,4 +1,4 @@
-package gls
+package gid
 
 import (
 	"github.com/modern-go/reflect2"
